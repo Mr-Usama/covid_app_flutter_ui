@@ -1,2 +1,2 @@
-# covid_app_flutter_ui
+# Inspired by Dribble design
 Covid Page created in Flutter.
